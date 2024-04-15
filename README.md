@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN ,Data Structure and Algorithm**
 
-- 📫 How to reach me **deeptanubhatta2002@gmail.com**
+- 📫 How to reach me **deeptanubhatta11@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
