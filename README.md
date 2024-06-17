@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://deeptanu20portfolio.netlify.app](https://deeptanu20portfolio.netlify.app)
 
-- 💬 Ask me about **MERN ,Data Structure and Algorithm**
+- 💬 Ask me about **MERN,Data Structure and Algorithm,Nextjs,Web3**
 
 - 📫 How to reach me **deeptanubhatta11@gmail.com**
 
