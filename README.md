@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deeptanu Bhatta</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
 
