@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [https://deeptanu20portfolio.netlify.app](https://deeptanu20portfolio.netlify.app)
-
 - 💬 Ask me about **MERN,Data Structure and Algorithm,Nextjs,Web3**
 
 - 📫 How to reach me **deeptanubhatta11@gmail.com**
